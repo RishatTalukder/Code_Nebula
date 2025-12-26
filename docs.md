@@ -2,8 +2,8 @@ Week 1:
 
 - Make a nice Project desciption by editing the main readme.md
 - Frontend setup.
-    - Setup a vite project.
-    - Tailwind.
+    - Setup a vite project. Done.
+    - Tailwind. Done.
     - Project structure.
     - Home page.
         - Header.
