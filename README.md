@@ -1,2 +1,20 @@
 # Code_Nebula
- This is the start of the journey
+
+
+# How run locally
+
+## Frontend
+
+Clone The repository and run the following commands.
+
+```bash
+
+cd code_nebula
+
+npm install
+
+npm run dev
+
+```
+
+
