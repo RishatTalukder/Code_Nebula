@@ -6,7 +6,8 @@
 
 - Configured the Vite plugin with tailwindcss
 
-```vite.config.js
+```js
+  //vite.config.js
     import { defineConfig } from 'vite'
     import tailwindcss from '@tailwindcss/vite'
 
@@ -32,7 +33,8 @@
 
 - Configured the prettierrc to use prettier-plugin
   - Created prettierrc file that called `.prettierrc`
-  ```prettierrc
+  ```json
+  //prettierrc
     {
      "plugins": ["prettier-plugin-tailwindcss"]
     } 
