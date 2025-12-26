@@ -33,93 +33,15 @@ git clone https://github.com/your-org/Code_Nebula.git
 > Note: Code Nebula is currently in its early development phase. The tech stack may evolve over time, with additional tools or technologies introduced as the project grows and requirements become more defined.
 
 # Contributors
-<table width="100%" cellspacing="16"> <tr>
-<td width="25%" valign="top" align="center" style="border:1px solid #d0d7de; padding:10px;">
-  <strong><small>Chief Contributor</small></strong>
-  <br><br>
 
-  <table width="100%" border="1" cellpadding="5">
-    <tr>
-      <td align="left">
-        <strong><small>Rishat Talukder</small></strong>
-      </td>
-      <td align="right">
-        <small><a href="https://github.com/RishatTalukder">GitHub Profile</a></small>
-      </td>
-    </tr>
-  </table>
+- **`Rishat Talukder`** *(Chief Contributor)* - [GitHub](https://github.com/RishatTalukder) | [LinkedIn](https://www.linkedin.com/in/pro-programmer/)  
+  Pythonista | AI enthusiast | Full-Stack Developer | Django Developer | Problem Solver | Content Creator
 
-  <p align="left">
-    <small>
-      Pythonista | AI enthusiast | Full-Stack Developer | Django Developer | Problem Solver | Content Creator
-    </small>
-  </p>
-</td>
+- **`Tomjid Huda`** - [GitHub](https://github.com/TOMJID) | [LinkedIn](https://www.linkedin.com/in/tomjid-huda-628910381/)  
+  Just a passionate web developer who loves to build stunning, pixel-perfect, interactive websites.
 
-<td width="25%" valign="top" align="center" style="border:1px solid #d0d7de; padding:10px;">
-  <strong><small>Contributor</small></strong>
-  <br><br>
+- **`Rashel Hossen`** - [GitHub](https://github.com/codebyrashel) | [LinkedIn](https://www.linkedin.com/in/rashelhossen/)  
+  Aspiring Software Engineer | Full-stack Developer | Former Digital Marketing & SEO Specialist
 
-  <table width="100%" border="1" cellpadding="5">
-    <tr>
-      <td align="left">
-        <strong><small>Tomjid</small></strong>
-      </td>
-      <td align="right">
-        <small><a href="https://github.com/TOMJID">GitHub Profile</a></small>
-      </td>
-    </tr>
-  </table>
-
-  <p align="left">
-    <small>
-      I’m Tomjid, just a passionate web developer with a love to build stunning, pixel-perfect, interactive websites.
-    </small>
-  </p>
-</td>
-
-<td width="25%" valign="top" align="center" style="border:1px solid #d0d7de; padding:10px;">
-  <strong><small>Contributor</small></strong>
-  <br><br>
-
-  <table width="100%" border="1" cellpadding="5">
-    <tr>
-      <td align="left">
-        <strong><small>Rashel Hossen</small></strong>
-      </td>
-      <td align="right">
-        <small><a href="https://github.com/codebyrashel">GitHub Profile</a></small>
-      </td>
-    </tr>
-  </table>
-
-  <p align="left">
-    <small>
-      Aspiring Software Engineer | Full-stack Developer | Former Digital Marketing & SEO Specialist
-    </small>
-  </p>
-</td>
-
-<td width="25%" valign="top" align="center" style="border:1px solid #d0d7de; padding:10px;">
-  <strong><small>Contributor</small></strong>
-  <br><br>
-
-  <table width="100%" border="1" cellpadding="5">
-    <tr>
-      <td align="left">
-        <strong><small>Jihad</small></strong>
-      </td>
-      <td align="right">
-        <small><a href="https://github.com/codebyjihad">GitHub Profile</a></small>
-      </td>
-    </tr>
-  </table>
-
-  <p align="left">
-    <small>
-      Software Engineer specializing in full-stack web development using the MERN stack.
-    </small>
-  </p>
-</td>
-
-</tr> </table>
+- **`Jihad Ahmed`** - [GitHub](https://github.com/codebyjihad) | [LinkedIn](https://www.linkedin.com/in/jihad-ahmed-110910380/)  
+  Software Engineer specializing in full-stack web development using the MERN stack.
