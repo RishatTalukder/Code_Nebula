@@ -18,7 +18,7 @@ const Header = () => {
                     {
                         headerArray.map((items) => (
 
-                            <li className='text-white transition-all hover:bg-white hover:text-black p-2 rounded-2xl'><a href={items.href}>{items.name}</a></li>
+                            <li key={items.id} className='text-white transition-all hover:bg-white hover:text-black p-2 rounded-2xl'><a href={items.href}>{items.name}</a></li>
                         ))
                     }
                 </ul>
