@@ -12,13 +12,14 @@ Code Nebula is an online judge platform inspired by LeetCode, CodeChef, and Code
 
 - Node.js (v18 or later)
 - npm
+- clone the repository with `git clone https://github.com/RishatTalukder/Code_Nebula.git`.
 
 #### Steps
-- First clone the repository with `git clone https://github.com/RishatTalukder/Code_Nebula.git`.
+- First 
 
 - Then run the following commands:
 
-```
+```bash
 cd ./Code_Nebula/frontend
 
 npm install
@@ -26,10 +27,38 @@ npm install
 npm run dev
 ```
 
+### Backend
+
+`Prerequisites`
+
+- Python (3.12 or later)
+- pip
+
+#### Steps
+- Open the repo in your terminal.
+
+- Run the following commands:
+
+```bash
+cd backend
+
+pip install uv
+
+uv sync
+
+uv run ./main.py
+
+# or
+
+uv run uvicorn src.app:app --reload
+```
+
+
 ## Tech Stack
 - React (Vite)
 - Tailwind CSS
 - Tailwind Prettier Plugin
+- FastAPI
 
 > Note: Code Nebula is currently in its early development phase. The tech stack may evolve over time, with additional tools or technologies introduced as the project grows and requirements become more defined.
 
