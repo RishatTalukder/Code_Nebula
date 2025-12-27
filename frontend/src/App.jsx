@@ -1,7 +1,9 @@
+import Header from "./Components/Header/Header"
+
 function App() {
   return (
     <>
-      Code-Nebula
+      <Header/>
     </>
   )
 }
